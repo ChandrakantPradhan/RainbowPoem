@@ -1,0 +1,7 @@
+The Rainbow
+ purple
+ pink 
+ orange 
+ blue
+ red 
+ this are colours present in the rainbows
