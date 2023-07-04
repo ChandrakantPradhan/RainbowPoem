@@ -1,9 +1,11 @@
 The Rainbow and the unicorn
  purple
  pink 
- orange 
+ orange
+indigo
 yellow
  blue
+magenta
  red 
  green
 unicorn
